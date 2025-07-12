@@ -30,12 +30,13 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  
-  ![Jimmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmy-shian&theme=catppuccin_latte&rank_icon=github&disable_animations=false&card_width=450)
-  ![Jimmy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-shian&layout=compact&exclude_repo=novel&hide=Jupyter%20Notebook&disable_animations=false&card_width=450)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jimmy-shian&theme=catppuccin_latte&rank_icon=github&disable_animations=false" alt="Jimmy's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-shian&layout=compact&exclude_repo=novel&hide=Jupyter%20Notebook&disable_animations=false" alt="Jimmy's Top Languages" height="165" />
 </div>
 
 ---
+
+
+
 
 > 資料來源由 GitHub API 提供，，詳細說明請參見：[github-readme-stats 專案](https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file)。
