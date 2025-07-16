@@ -15,23 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I'm Jimmy Shian
+## 👋 Jimmy Shian 的 GitHub 個人空間 — 開發、探索與奇怪的文件
 
 歡迎來到我的 GitHub！這裡記錄著我的開源旅程與奇怪的文件。  
 喜歡開發廢物工具、爆掉的後端與自動失敗流程。
 
 ---
 
-### 🚀 GitHub 活躍度（當年度）
+### GitHub 統計與語言分析
 <div align="center">
-  <img src="https://ghchart.rshah.org/jimmy-shian" alt="GitHub 貢獻圖" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jimmy-shian&theme=catppuccin_latte&rank_icon=github&disable_animations=false" alt="Jimmy's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-shian&layout=compact&exclude_repo=novel&hide=Jupyter%20Notebook&disable_animations=false" alt="Jimmy's Top Languages" height="165" />
 </div>
 
 ---
 
+### 🚀 GitHub 活躍度（當年度）
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimmy-shian&theme=catppuccin_latte&rank_icon=github&disable_animations=false" alt="Jimmy's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-shian&layout=compact&exclude_repo=novel&hide=Jupyter%20Notebook&disable_animations=false" alt="Jimmy's Top Languages" height="165" />
+  <img src="https://ghchart.rshah.org/jimmy-shian" alt="GitHub 貢獻圖" />
 </div>
 
 ---
