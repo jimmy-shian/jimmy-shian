@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### GitHub 統計與語言分析
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimmy-shian&theme=catppuccin_latte&rank_icon=github&disable_animations=false" alt="Jimmy's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-shian&layout=compact&exclude_repo=novel&hide=Jupyter%20Notebook&disable_animations=false" alt="Jimmy's Top Languages" height="165" />
+  <img src="https://holdem-area-5lh4.vercel.app/api?username=jimmy-shian&theme=catppuccin_latte&rank_icon=github&disable_animations=false" alt="Jimmy's GitHub Stats" height="165" />
+<img src="https://holdem-area-5lh4.vercel.app/api/top-langs/?username=jimmy-shian&layout=compact&exclude_repo=novel&hide=Jupyter%20Notebook&disable_animations=false" alt="Jimmy's Top Languages" height="165" />
 </div>
 
 ---
